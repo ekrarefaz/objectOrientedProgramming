@@ -1,0 +1,13 @@
+/Users/ekrar/Swinny/semester2/OOP/redone/bin/Debug/netcoreapp3.1/redone.deps.json
+/Users/ekrar/Swinny/semester2/OOP/redone/bin/Debug/netcoreapp3.1/redone.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/redone/bin/Debug/netcoreapp3.1/redone.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/redone/bin/Debug/netcoreapp3.1/redone.dll
+/Users/ekrar/Swinny/semester2/OOP/redone/bin/Debug/netcoreapp3.1/redone.pdb
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.dll
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.pdb
+/Users/ekrar/Swinny/semester2/OOP/redone/obj/Debug/netcoreapp3.1/redone.genruntimeconfig.cache

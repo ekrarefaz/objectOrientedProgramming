@@ -1,0 +1,13 @@
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/task1.2.deps.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/task1.2.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/task1.2.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/task1.2.dll
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/task1.2.pdb
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.dll
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.pdb
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/task1.2.genruntimeconfig.cache

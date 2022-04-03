@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "redone", "redone.csproj", "{0B416318-E90C-49F9-AFD1-279D143BAE4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifiableObjectTests", "IdentifiableObjectTests\IdentifiableObjectTests.csproj", "{714105BB-CB31-488A-AF03-E43393E16483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B416318-E90C-49F9-AFD1-279D143BAE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B416318-E90C-49F9-AFD1-279D143BAE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B416318-E90C-49F9-AFD1-279D143BAE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B416318-E90C-49F9-AFD1-279D143BAE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{714105BB-CB31-488A-AF03-E43393E16483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714105BB-CB31-488A-AF03-E43393E16483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714105BB-CB31-488A-AF03-E43393E16483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714105BB-CB31-488A-AF03-E43393E16483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD4D19F-571C-47EF-B13C-F30FCF8273A8}
+	EndGlobalSection
+EndGlobal

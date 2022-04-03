@@ -1,0 +1,15 @@
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/Clock.deps.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/Clock.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/Clock.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/Clock.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/ref/Clock.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/Clock.pdb
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/ref/Clock.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.pdb
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/Clock.genruntimeconfig.cache

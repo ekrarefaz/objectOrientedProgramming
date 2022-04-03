@@ -1,0 +1,13 @@
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/hello_world.deps.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/hello_world.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/hello_world.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/hello_world.dll
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/bin/Debug/netcoreapp3.1/hello_world.pdb
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.dll
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.pdb
+/Users/ekrar/Swinny/semester2/OOP/task1.2/task1.2/obj/Debug/netcoreapp3.1/hello_world.genruntimeconfig.cache

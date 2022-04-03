@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{0B416318-E90C-49F9-AFD1-279D143BAE4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.redone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObjectTests/UnitTest1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="24" />
+      <File FileName="IdentifiableObject.cs" Line="22" Column="45" />
+      <File FileName="IdentifiableObjectTests/UnitTest1.cs" Line="41" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="redone" expanded="True">
+            <Node name="IdentifiableObjectTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+            <Node name="redone" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="redone" expanded="True">
+            <Node name="IdentifiableObjectTests" expanded="True">
+              <Node name="IdentifiableObjectTests" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

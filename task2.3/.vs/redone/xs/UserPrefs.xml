@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0B416318-E90C-49F9-AFD1-279D143BAE4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.redone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdentifiableObject.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="24" />
+      <File FileName="IdentifiableObject.cs" Line="12" Column="1" />
+      <File FileName="IdentifiableObjectTests/UnitTest1.cs" Line="35" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{83CFB51D-9BED-4A58-8D29-FA136BE8D7D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="43" />
+      <File FileName="Shape.cs" Line="110" Column="17" />
+      <File FileName="Drawing.cs" Line="70" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.task3.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

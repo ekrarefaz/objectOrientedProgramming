@@ -1,0 +1,15 @@
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/task3.3.deps.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/task3.3.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/task3.3.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/task3.3.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/ref/task3.3.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/bin/Debug/net5.0/task3.3.pdb
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/ref/task3.3.dll
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.pdb
+/Users/ekrar/Swinny/semester2/OOP/task3.3/obj/Debug/net5.0/task3.3.genruntimeconfig.cache

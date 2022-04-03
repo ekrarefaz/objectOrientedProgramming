@@ -1,0 +1,125 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="IdentifiableObjectTests\UnitTest1.cs" />
+    <Compile Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Compile Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.AssemblyInfo.cs" />
+    <Compile Remove="IdentifiableObjectTests\UnitTest1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="IdentifiableObjectTests\obj\IdentifiableObjectTests.csproj.nuget.dgspec.json" />
+    <None Remove="IdentifiableObjectTests\obj\IdentifiableObjectTests.csproj.nuget.g.props" />
+    <None Remove="IdentifiableObjectTests\obj\IdentifiableObjectTests.csproj.nuget.g.targets" />
+    <None Remove="IdentifiableObjectTests\obj\project.nuget.cache" />
+    <None Remove="IdentifiableObjectTests\obj\project.assets.json" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.csproj.AssemblyReference.cache" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.assets.cache" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\testhost.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\nunit.framework.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\redone.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\redone.pdb" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\redone.deps.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\redone.runtimeconfig.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\nunit.engine.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\redone.runtimeconfig.dev.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\IdentifiableObjectTests.deps.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\IdentifiableObjectTests.runtimeconfig.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\IdentifiableObjectTests.runtimeconfig.dev.json" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\IdentifiableObjectTests.dll" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\IdentifiableObjectTests.pdb" />
+    <None Remove="IdentifiableObjectTests\bin\Debug\netcoreapp3.1\nunit_random_seed.tmp" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.AssemblyInfoInputs.cache" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.csproj.CoreCompileInputs.cache" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.dll" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.pdb" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.csproj.CopyComplete" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.genruntimeconfig.cache" />
+    <None Remove="IdentifiableObjectTests\obj\Debug\netcoreapp3.1\IdentifiableObjectTests.csproj.FileListAbsolute.txt" />
+  </ItemGroup>
+</Project>
