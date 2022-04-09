@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/InventoryTest/InventoryTest.csproj": {}
+  },
+  "projects": {
+    "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/InventoryTest/InventoryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/InventoryTest/InventoryTest.csproj",
+        "projectName": "InventoryTest",
+        "projectPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/InventoryTest/InventoryTest.csproj",
+        "packagesPath": "/Users/ekrar/.nuget/packages/",
+        "outputPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/InventoryTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ekrar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/SwinburneAdventure.csproj": {
+                "projectPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/SwinburneAdventure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/SwinburneAdventure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/SwinburneAdventure.csproj",
+        "projectName": "SwinburneAdventure",
+        "projectPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/SwinburneAdventure.csproj",
+        "packagesPath": "/Users/ekrar/.nuget/packages/",
+        "outputPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ekrar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,19 +1,14 @@
-﻿<Properties StartupConfiguration="{3A8C8AF7-71AC-4F3F-9EB1-5DBAA9DFC276}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyCircle.cs">
+﻿<Properties StartupConfiguration="{C8E734BD-C078-4C5E-A078-DA7009E9AE87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Shape.cs" Line="68" Column="44" />
-      <File FileName="Program.cs" Line="22" Column="41" />
-      <File FileName="Drawing.cs" Line="77" Column="14" />
-      <File FileName="MyCircle.cs" Line="19" Column="1" />
-      <File FileName="MyRectangle.cs" Line="38" Column="16" />
-      <File FileName="MyLine.cs" Line="21" Column="14" />
+      <File FileName="Program.cs" Line="1" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="task4.1" expanded="True">
             <Node name="task4.1" expanded="True">
-              <Node name="MyCircle.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

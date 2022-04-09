@@ -1,0 +1,13 @@
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/bin/Debug/netcoreapp3.1/SwinburneAdventure.deps.json
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/bin/Debug/netcoreapp3.1/SwinburneAdventure.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/bin/Debug/netcoreapp3.1/SwinburneAdventure.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/bin/Debug/netcoreapp3.1/SwinburneAdventure.dll
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/bin/Debug/netcoreapp3.1/SwinburneAdventure.pdb
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.dll
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.pdb
+/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/Debug/netcoreapp3.1/SwinburneAdventure.genruntimeconfig.cache

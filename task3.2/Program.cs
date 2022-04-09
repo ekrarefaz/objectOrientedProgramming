@@ -25,19 +25,15 @@ namespace ShapeDrawer
                 }
                 if (SplashKit.MouseClicked(MouseButton.RightButton))
                 {
+
                     drawing.SelectedShapesAt(SplashKit.MousePosition()); 
                 }
                 if (SplashKit.KeyTyped(KeyCode.BackspaceKey))
                 {
-                    drawing.SelectedShapesAt(SplashKit.MousePosition());
-                    drawing.Delete(drawing.SelectedShapes);
+                    foreach (Shape s in drawing.SelectedShapes)
+                        drawing.RemoveShape(s);
                 }
                 //Console.WriteLine("Drawing");
-                foreach (Shape s in drawing.SelectedShapes)
-                {
-                    //Console.WriteLine("Outline");
-                    s.DrawOutline(Color.Red);
-                }
                 drawing.Draw();
                 SplashKit.RefreshScreen();
             }while (!SplashKit.WindowCloseRequested("Shape Drawer"));

@@ -11,6 +11,7 @@ namespace ShapeDrawer
         public Drawing(Color background)
         {
             _shapes = new List<Shape>();
+            _background = background;
 
         }
         public Color Background
@@ -34,11 +35,15 @@ namespace ShapeDrawer
         public void SelectedShapesAt(Point2D pt)
         {
             foreach (Shape s in _shapes)
-            {             
-            if ((pt.X > s.X && pt.Y < s.Y + s.Width && pt.Y > s.Y && pt.Y < s.Y + s.Height) && SplashKit.MouseClicked(MouseButton.RightButton))
+            {
+                if (s.IsAt(pt))
                 {
                     s.Selected = true;
-                }                           
+                }
+                else
+                {
+                    s.Selected = false;
+                }
             }
         }
         public List<Shape> SelectedShapes
@@ -54,13 +59,6 @@ namespace ShapeDrawer
                     }
                 }
                 return result;
-            }
-        }
-        public void Delete(List<Shape> shapes)
-        {
-            foreach (var shape in shapes)
-            {
-                _shapes.Remove(shape);
             }
         }
         public void AddShape(Shape s)

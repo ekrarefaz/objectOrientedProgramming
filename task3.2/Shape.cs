@@ -8,8 +8,6 @@ namespace ShapeDrawer
         private float _x, _y;
         private int _width, _height;
         private bool _selected;
-        
-
         public Shape(float x=0, float y=0)
         {
             _color = Color.Blue;
@@ -18,7 +16,6 @@ namespace ShapeDrawer
             _width = 100;
             _height = 100;
         }
-
         public bool Selected
         {
             get
@@ -30,7 +27,6 @@ namespace ShapeDrawer
                 _selected = value;
             }
         }
-
         public float X
         {
             get
@@ -42,7 +38,6 @@ namespace ShapeDrawer
                 _x = value;
             }
         }
-
         public float Y
         {
             get
@@ -54,7 +49,6 @@ namespace ShapeDrawer
                 _y = value;
             }
         }
-
         public int Width
         {
             get
@@ -66,7 +60,6 @@ namespace ShapeDrawer
                 _width = value;
             }
         }
-
         public int Height
         {
             get
@@ -92,18 +85,23 @@ namespace ShapeDrawer
         }
         public void DrawOutline(Color _bordercolor)
         {
-            
-            SplashKit.FillRectangle(Color.Red, X - 2, Y - 2, Width + 10, Height + 10);
+            SplashKit.DrawRectangle(
+                clr: _bordercolor,
+                x: (X - 2),
+                y: (Y - 2),
+                width: (Width + 4),
+                height: (Height + 4)
+                );
         }
-
         public void Draw()
         {
             SplashKit.FillRectangle(_color, _x, _y, _width, _height);
+            if (Selected)
+                DrawOutline(Color.Red);
         }
-
         public bool IsAt(Point2D pt)
         {
-            if (pt.X > this.X && pt.Y < this.X + this._width && pt.Y > this.Y && pt.Y < this.Y + this._height)
+            if (pt.X > this.X && pt.X < this.X + this._width && pt.Y > this.Y && pt.Y < this.Y + this._height)
             {
                 return true;
             }

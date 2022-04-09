@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{6D6E0980-7C87-45A9-8C90-0E438E7207C4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="32" Column="48" />
-      <File FileName="Counter.cs" Line="38" Column="10" />
+      <File FileName="Program.cs" Line="21" Column="1" />
+      <File FileName="Counter.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

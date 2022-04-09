@@ -1,9 +1,20 @@
 ﻿<Properties StartupConfiguration="{D66DA279-23B8-4529-B3F7-17174A4945E9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape.cs">
     <Files>
-      <File FileName="Program.cs" Line="20" Column="18" />
-      <File FileName="Shape.cs" Line="57" Column="10" />
+      <File FileName="Program.cs" Line="27" Column="51" />
+      <File FileName="Shape.cs" Line="17" Column="27" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="task2.2" expanded="True">
+            <Node name="task2.2" expanded="True">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.task2.2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
