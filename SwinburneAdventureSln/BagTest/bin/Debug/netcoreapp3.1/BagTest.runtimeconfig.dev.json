@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ekrar/.dotnet/store/|arch|/|tfm|",
+      "/Users/ekrar/.nuget/packages"
+    ]
+  }
+}

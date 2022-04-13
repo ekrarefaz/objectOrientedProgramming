@@ -21,12 +21,10 @@ namespace SwinburneAdventure
             }
             return false;
         }
-
         public void Put(Item item)
         {
             _items.Add(item);
         }
-
         public Item Take(string id)
         {
             foreach(Item item in _items)

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryTest", "InventoryT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerTest", "PlayerTest\PlayerTest.csproj", "{51927FBC-9E03-43C0-BD6E-F69180639B33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagTest", "BagTest\BagTest.csproj", "{21775FB6-942B-4C79-9AA8-322664F58598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{51927FBC-9E03-43C0-BD6E-F69180639B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51927FBC-9E03-43C0-BD6E-F69180639B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51927FBC-9E03-43C0-BD6E-F69180639B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21775FB6-942B-4C79-9AA8-322664F58598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21775FB6-942B-4C79-9AA8-322664F58598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21775FB6-942B-4C79-9AA8-322664F58598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21775FB6-942B-4C79-9AA8-322664F58598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,7 +20,6 @@ namespace PlayerTest
 
             newPlayer.Inventory.Put(Sword);
         }
-
         [Test]
         public void PlayerIdentifyTest()
         {
