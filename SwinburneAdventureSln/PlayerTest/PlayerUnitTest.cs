@@ -17,8 +17,11 @@ namespace PlayerTest
             gameInventory = new Inventory();
             Sword = new Item(new string[] { "bronze", "sword" }, "a sword", "might one");
             Map = new Item(new string[] { "big", "map" }, "a map", "crazy one");
+            if(!newPlayer.Inventory.HasItem("sword"))
+            {
+                newPlayer.Inventory.Put(Sword);
+            }
 
-            newPlayer.Inventory.Put(Sword);
         }
         [Test]
         public void PlayerIdentifyTest()
@@ -45,7 +48,7 @@ namespace PlayerTest
         [Test]
         public void PlayerDescriptionTest()
         {
-            string result = $"You are {newPlayer.Name} the unholy programmer\n You have {newPlayer.Inventory.ItemList}";
+            string result = $"You are longbeardmike A mighty unholy hero with legendary staff made of beard\nYou have \ta sword (bronze)\n";
             Assert.AreEqual(result, newPlayer.FullDescription);
         }
     }

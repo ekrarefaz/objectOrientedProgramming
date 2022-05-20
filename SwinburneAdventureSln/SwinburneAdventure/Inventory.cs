@@ -27,15 +27,9 @@ namespace SwinburneAdventure
         }
         public Item Take(string id)
         {
-            foreach(Item item in _items)
-            {
-                if(item.AreYou(id))
-                {
-                    _items.Remove(item);
-                    return item;
-                }  
-            }
-            return null;
+            Item item = Fetch(id);
+            _items.Remove(item);
+            return item;
         }
         public Item Fetch(string id)
         {
@@ -55,13 +49,9 @@ namespace SwinburneAdventure
                 string list = "";
                 foreach(Item item in _items)
                 {
-                    list += item.ShortDescription;
+                    list += "\t"+item.ShortDescription +"\n";
                 }
                 return list;
-            }
-            set
-            {
-                string list = value;
             }
         }
     }

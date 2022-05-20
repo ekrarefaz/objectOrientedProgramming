@@ -20,10 +20,10 @@ namespace SwinburneAdventure
         {
             get
             {
-                if (_identifiers.First() == null)
-                    return "";
+                if (_identifiers.Count != 0)
+                    return _identifiers[0];
                 else
-                    return _identifiers.First();
+                    return "";
             }
         }
         public bool AreYou(string id)
