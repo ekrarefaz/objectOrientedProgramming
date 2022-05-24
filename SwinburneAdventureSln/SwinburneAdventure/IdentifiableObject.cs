@@ -14,8 +14,6 @@ namespace SwinburneAdventure
                 _identifiers.Add(identity);
             }
         }
-
-
         public string FirstId
         {
             get

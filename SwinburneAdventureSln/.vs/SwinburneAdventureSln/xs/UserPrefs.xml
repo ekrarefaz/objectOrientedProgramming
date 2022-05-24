@@ -1,36 +1,45 @@
 ﻿<Properties StartupConfiguration="{B4C4D77B-BDFE-451B-871A-2927584FD73D}|Default">
-  <MonoDevelop.Ide.ItemProperties.BagTest FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BagTest/BagUnitTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinburneAdventure/Player.cs">
     <Files>
-      <File FileName="SwinburneAdventure/Inventory.cs" Line="40" Column="29" />
-      <File FileName="SwinburneAdventure/Player.cs" Line="5" Column="6" />
-      <File FileName="SwinburneAdventure/IdentifiableObject.cs" Line="5" Column="2" />
-      <File FileName="SwinburneAdventure/Program.cs" Line="8" Column="10" />
-      <File FileName="SwinburneAdventure/GameObject.cs" Line="1" Column="1" />
+      <File FileName="SwinburneAdventure/Command.cs" Line="5" Column="6" />
+      <File FileName="SwinburneAdventure/Location.cs" />
+      <File FileName="SwinburneAdventure/LookupCommand.cs" Line="15" Column="65" />
+      <File FileName="SwinburneAdventure/Program.cs" Line="47" Column="42" />
+      <File FileName="SwinburneAdventure/Path.cs" Line="19" Column="1" />
+      <File FileName="PathTest/PathUnitTest.cs" Line="20" Column="1" />
       <File FileName="SwinburneAdventure/Item.cs" Line="1" Column="1" />
-      <File FileName="BagTest/UnitTest1.cs" Line="13" Column="20" />
-      <File FileName="ItemTest/ItemUnitTest.cs" Line="11" Column="10" />
-      <File FileName="InventoryTest/InventoryUnitTest.cs" Line="11" Column="1" />
-      <File FileName="SwinburneAdventure/Bag.cs" Line="19" Column="10" NotebookId="1" />
+      <File FileName="SwinburneAdventure/Inventory.cs" Line="56" Column="10" />
+      <File FileName="SwinburneAdventure/MoveCommand.cs" Line="20" Column="200" />
+      <File FileName="DirectionTest/DirectionUnitTest.cs" Line="59" Column="1" />
+      <File FileName="SwinburneAdventure/CommandProcessor.cs" Line="25" Column="18" />
+      <File FileName="CommandProcessorTest/UnitTest1.cs" Line="6" Column="6" />
+      <File FileName="MoveCommandTest/MoveCommandUnitTest.cs" Line="24" Column="15" />
+      <File FileName="LocationTest/LocationUnitTest.cs" Line="20" Column="44" />
+      <File FileName="SwinburneAdventure/Player.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinburneAdventureSln" expanded="True">
-            <Node name="BagTest" expanded="True">
-              <Node name="BagUnitTest.cs" selected="True" />
+            <Node name="CommandProcessorTest" expanded="True" />
+            <Node name="DirectionTest" expanded="True" />
+            <Node name="LocationTest" expanded="True" />
+            <Node name="MoveCommandTest" expanded="True" />
+            <Node name="SwinburneAdventure" expanded="True">
+              <Node name="Player.cs" selected="True" />
             </Node>
-            <Node name="IdentifiableObjectTest" expanded="True" />
-            <Node name="InventoryTest" expanded="True" />
-            <Node name="ItemTest" expanded="True" />
-            <Node name="PlayerTest" expanded="True" />
-            <Node name="SwinburneAdventure" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SwinburneAdventureSln" expanded="True" selected="True" />
+          <Node name="SwinburneAdventureSln" expanded="True">
+            <Node name="CommandProcessorTest" expanded="True" selected="True">
+              <Node name="CommandProcessorTest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

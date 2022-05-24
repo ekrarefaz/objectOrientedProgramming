@@ -14,7 +14,7 @@
         "outputPath": "/Users/ekrar/Swinny/semester2/OOP/task3.2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ekrar/.nuget/NuGet/NuGet.Config"
+          "/Users/ekrar/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp5.0"

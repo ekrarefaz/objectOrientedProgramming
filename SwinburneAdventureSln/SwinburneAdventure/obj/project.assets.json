@@ -20,7 +20,7 @@
       "outputPath": "/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/SwinburneAdventure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ekrar/.config/NuGet/NuGet.Config"
+        "/Users/ekrar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

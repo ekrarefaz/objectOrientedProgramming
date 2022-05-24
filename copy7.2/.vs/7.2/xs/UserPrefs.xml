@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{55151C27-99AB-4DBD-8684-5591DD39C8FC}|Default">
+  <MonoDevelop.Ide.ItemProperties.7.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7.2/CommandProcessor.cs">
+    <Files>
+      <File FileName="7.2/Path.cs" Line="14" Column="28" />
+      <File FileName="7.2/MoveCommand.cs" />
+      <File FileName="7.2/Direction.cs" Line="100" Column="10" />
+      <File FileName="7.2/Location.cs" />
+      <File FileName="7.2/Inventory.cs" />
+      <File FileName="7.2/LookCommand.cs" />
+      <File FileName="TestPath/PathTest.cs" Line="37" Column="48" />
+      <File FileName="TestMoveCommand/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="7.2/CommandProcessor.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7.2" expanded="True">
+            <Node name="7.2" expanded="True">
+              <Node name="CommandProcessor.cs" selected="True" />
+            </Node>
+            <Node name="TestMoveCommand" expanded="True" />
+            <Node name="TestPath" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="7.2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

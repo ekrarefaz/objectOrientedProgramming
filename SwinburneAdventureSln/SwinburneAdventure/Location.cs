@@ -52,12 +52,17 @@ namespace SwinburneAdventure
         {
             _paths.Add(path);
         }
-        public List<Path> Paths
+        public string PathList
         {
             get
             {
-                return _paths;
+                string list = "";
+                foreach (Path path in _paths)
+                {
+                    list += path.ShortDescription + "\n";
+                }
+                return list;
             }
-        }   
+        }
     }
 }

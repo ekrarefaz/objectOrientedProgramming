@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1EC3E915-C9E2-4F9F-8FDF-E792C1C2C07D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClockTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CounterTest/CounterUnitTest.cs">
+    <Files>
+      <File FileName="ClockTask/Program.cs" Line="13" Column="52" />
+      <File FileName="ClockTask/Counter.cs" Line="1" Column="1" />
+      <File FileName="ClockTask/Clock.cs" Line="1" Column="1" />
+      <File FileName="ClockTest/ClockUnitTest.cs" Line="1" Column="1" />
+      <File FileName="CounterTest/CounterUnitTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClockTaskSln" expanded="True">
+            <Node name="ClockTask" expanded="True" />
+            <Node name="ClockTest" expanded="True" />
+            <Node name="CounterTest" expanded="True">
+              <Node name="CounterUnitTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

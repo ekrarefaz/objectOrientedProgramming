@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2", "7.2\7.2.csproj", "{55151C27-99AB-4DBD-8684-5591DD39C8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPath", "TestPath\TestPath.csproj", "{B3E38B30-C239-4B3E-8A32-C4445FF0E9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMoveCommand", "TestMoveCommand\TestMoveCommand.csproj", "{1F0A2743-1115-4858-ACAC-4AB6BA3A06E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55151C27-99AB-4DBD-8684-5591DD39C8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55151C27-99AB-4DBD-8684-5591DD39C8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55151C27-99AB-4DBD-8684-5591DD39C8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55151C27-99AB-4DBD-8684-5591DD39C8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E38B30-C239-4B3E-8A32-C4445FF0E9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E38B30-C239-4B3E-8A32-C4445FF0E9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E38B30-C239-4B3E-8A32-C4445FF0E9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E38B30-C239-4B3E-8A32-C4445FF0E9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0A2743-1115-4858-ACAC-4AB6BA3A06E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0A2743-1115-4858-ACAC-4AB6BA3A06E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0A2743-1115-4858-ACAC-4AB6BA3A06E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0A2743-1115-4858-ACAC-4AB6BA3A06E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAFFB828-C6D0-44A6-9575-295B701C203C}
+	EndGlobalSection
+EndGlobal

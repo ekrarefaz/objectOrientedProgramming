@@ -14,7 +14,7 @@ namespace SwinburneAdventure
             IHaveInventory itemContainer;
             if (text.Length == 1 && text[0].ToLower() == "look")
             {
-                return $"You are in {p.Location.FullDescription} and nearby you can see {p.Location.Inventory.ItemList}";
+                return $"You are in {p.Location.FullDescription} and nearby you can see {p.Location.Inventory.ItemList} and way to {p.Location.PathList}";
             }
             else if (text.Length != 3 && text.Length != 5)
             {

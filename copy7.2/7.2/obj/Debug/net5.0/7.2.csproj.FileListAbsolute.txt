@@ -1,0 +1,15 @@
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/7.2.deps.json
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/7.2.runtimeconfig.json
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/7.2.runtimeconfig.dev.json
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/7.2.dll
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/ref/7.2.dll
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/bin/Debug/net5.0/7.2.pdb
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.csproj.AssemblyReference.cache
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.AssemblyInfoInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.AssemblyInfo.cs
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.csproj.CoreCompileInputs.cache
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.dll
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/ref/7.2.dll
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.pdb
+/Users/ekrar/Swinny/semester2/OOP/copy7.2/7.2/obj/Debug/net5.0/7.2.genruntimeconfig.cache

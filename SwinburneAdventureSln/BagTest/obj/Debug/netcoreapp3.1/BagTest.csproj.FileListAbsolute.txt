@@ -91,7 +91,6 @@
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.pdb
-/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/obj/Debug/netcoreapp3.1/BagTest.csproj.AssemblyReference.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/obj/Debug/netcoreapp3.1/BagTest.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/obj/Debug/netcoreapp3.1/BagTest.AssemblyInfoInputs.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/BagTest/obj/Debug/netcoreapp3.1/BagTest.AssemblyInfo.cs

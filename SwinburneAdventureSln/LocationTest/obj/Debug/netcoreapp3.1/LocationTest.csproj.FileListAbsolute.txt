@@ -91,7 +91,6 @@
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.pdb
-/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/obj/Debug/netcoreapp3.1/LocationTest.csproj.AssemblyReference.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/obj/Debug/netcoreapp3.1/LocationTest.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/obj/Debug/netcoreapp3.1/LocationTest.AssemblyInfoInputs.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LocationTest/obj/Debug/netcoreapp3.1/LocationTest.AssemblyInfo.cs

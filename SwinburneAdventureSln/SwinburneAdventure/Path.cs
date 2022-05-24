@@ -7,7 +7,7 @@ namespace SwinburneAdventure
 
         public Path(string name, string description, string[] ids, Location location) : base(name, description, ids)
         {
-
+            _location = location;
         }
         public Location Location
         {
@@ -16,5 +16,6 @@ namespace SwinburneAdventure
                 return _location;
             }
         }
+
     }
 }

@@ -91,7 +91,6 @@
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.dll
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/bin/Debug/netcoreapp3.1/SwinburneAdventure.pdb
-/Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/obj/Debug/netcoreapp3.1/LookUpCommandTest.csproj.AssemblyReference.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/obj/Debug/netcoreapp3.1/LookUpCommandTest.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/obj/Debug/netcoreapp3.1/LookUpCommandTest.AssemblyInfoInputs.cache
 /Users/ekrar/Swinny/semester2/OOP/SwinburneAdventureSln/LookUpCommandTest/obj/Debug/netcoreapp3.1/LookUpCommandTest.AssemblyInfo.cs

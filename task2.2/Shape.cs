@@ -16,7 +16,6 @@ namespace ShapeDrawer
             _width = 100;
             _height = 100;
         }
-
         public float X
         {
             get
@@ -28,7 +27,6 @@ namespace ShapeDrawer
                 _x = value;
             }
         }
-
         public float Y
         {
             get
@@ -40,7 +38,6 @@ namespace ShapeDrawer
                 _y = value;
             }
         }
-
         public int Width
         {
             get
@@ -52,7 +49,6 @@ namespace ShapeDrawer
                 _width = value;
             }
         }
-
         public int Height
         {
             get
@@ -71,15 +67,13 @@ namespace ShapeDrawer
                 _color = value;
             }
         }
-
         public void Draw()
         {
             SplashKit.FillRectangle(_color, _x, _y, _width, _height);
         }
-
         public bool IsAt(Point2D pt)
         {
-            if(pt.X > this.X && pt.Y < this.X+this._width && pt.Y > this.Y && pt.Y < this.Y+this._height)
+            if(pt.X > this.X && pt.X < this.X+this._width && pt.Y > this.Y && pt.Y < this.Y+this._height)
             {
                 return true;
             }
@@ -87,15 +81,6 @@ namespace ShapeDrawer
             {
                 return false;
             }
-
         }
- 
-
-        
-
-
-
-
-
     }
 }
