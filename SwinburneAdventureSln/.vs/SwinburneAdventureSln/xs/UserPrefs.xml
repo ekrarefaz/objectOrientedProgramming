@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{B4C4D77B-BDFE-451B-871A-2927584FD73D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SwinburneAdventure/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InventoryTest/InventoryUnitTest.cs">
     <Files>
       <File FileName="SwinburneAdventure/Command.cs" Line="5" Column="6" />
       <File FileName="SwinburneAdventure/Location.cs" />
@@ -16,18 +16,16 @@
       <File FileName="MoveCommandTest/MoveCommandUnitTest.cs" Line="24" Column="15" />
       <File FileName="LocationTest/LocationUnitTest.cs" Line="20" Column="44" />
       <File FileName="SwinburneAdventure/Player.cs" Line="1" Column="1" />
+      <File FileName="InventoryTest/InventoryUnitTest.cs" Line="40" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SwinburneAdventureSln" expanded="True">
-            <Node name="CommandProcessorTest" expanded="True" />
-            <Node name="DirectionTest" expanded="True" />
-            <Node name="LocationTest" expanded="True" />
-            <Node name="MoveCommandTest" expanded="True" />
-            <Node name="SwinburneAdventure" expanded="True">
-              <Node name="Player.cs" selected="True" />
+            <Node name="InventoryTest" expanded="True">
+              <Node name="InventoryUnitTest.cs" selected="True" />
             </Node>
+            <Node name="SwinburneAdventure" expanded="True" />
           </Node>
         </State>
       </Pad>
